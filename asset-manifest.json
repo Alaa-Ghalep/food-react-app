@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/food-react-app/static/css/main.32bc875f.css",
+    "main.js": "/food-react-app/static/js/main.fe079587.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/food-react-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/img1.png": "/food-react-app/static/media/img1.bcf3d54543516a0971e5.png",
+    "static/media/sction6img1.png": "/food-react-app/static/media/sction6img1.78400cd0e9d621d91809.png",
+    "static/media/section2img2.png": "/food-react-app/static/media/section2img2.2a43ecb7b1a031400433.png",
+    "static/media/section2img1.png": "/food-react-app/static/media/section2img1.e8e5986393b97f26c74b.png",
+    "static/media/fontawesome-webfont.eot": "/food-react-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/food-react-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/section4img1.png": "/food-react-app/static/media/section4img1.1d1a288d7addfacb7174.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/food-react-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/food-react-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/imgcard2.png": "/food-react-app/static/media/imgcard2.595daa8105d064461bae.png",
+    "static/media/sec3icon2.png": "/food-react-app/static/media/sec3icon2.d24aa9242371b7dc0b02.png",
+    "static/media/imgcard3.png": "/food-react-app/static/media/imgcard3.441d66b315d47ab2ef5d.png",
+    "static/media/sec3icon4.png": "/food-react-app/static/media/sec3icon4.74a9f923d735d7429568.png",
+    "static/media/imgcard1.png": "/food-react-app/static/media/imgcard1.1de89dc1a7e7346abd56.png",
+    "static/media/sec3icon1.png": "/food-react-app/static/media/sec3icon1.0d47e306930816695a0a.png",
+    "index.html": "/food-react-app/index.html",
+    "main.32bc875f.css.map": "/food-react-app/static/css/main.32bc875f.css.map",
+    "main.fe079587.js.map": "/food-react-app/static/js/main.fe079587.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bc875f.css",
+    "static/js/main.fe079587.js"
+  ]
+}
